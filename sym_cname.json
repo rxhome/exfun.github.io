@@ -1,0 +1,1035 @@
+{
+  "BTN": {
+    "conutry": "不丹",
+    "cname": "不丹努尔特鲁姆",
+    "flag": "https://fxtop.com/ico/btn.gif",
+    "code": "BT"
+  },
+  "USD": {
+    "conutry": "马绍尔群岛",
+    "cname": "美元",
+    "flag": "https://fxtop.com/ico/mh.gif",
+    "code": "MH"
+  },
+  "CNY": {
+    "conutry": "中国",
+    "cname": "中国人民币元",
+    "flag": "https://fxtop.com/ico/cny.gif",
+    "code": "CN"
+  },
+  "XAF": {
+    "conutry": "赤道几内亚",
+    "cname": "西非法郎 (BEAC)",
+    "flag": "https://fxtop.com/ico/gq.gif",
+    "code": "GQ"
+  },
+  "DKK": {
+    "conutry": "法罗群岛",
+    "cname": "丹麦克朗",
+    "flag": "https://fxtop.com/ico/dkk.gif",
+    "code": "FO"
+  },
+  "UAH": {
+    "conutry": "乌克兰",
+    "cname": "乌克兰格里夫尼亚",
+    "flag": "https://fxtop.com/ico/uah.gif",
+    "code": "UA"
+  },
+  "UZS": {
+    "conutry": "乌兹别克斯坦",
+    "cname": "乌兹别克苏姆",
+    "flag": "https://fxtop.com/ico/uzs.gif",
+    "code": "UZ"
+  },
+  "UGX": {
+    "conutry": "乌干达",
+    "cname": "乌干达先令",
+    "flag": "https://fxtop.com/ico/ugx.gif",
+    "code": "UG"
+  },
+  "UYU": {
+    "conutry": "乌拉圭",
+    "cname": "乌拉圭比索",
+    "flag": "https://fxtop.com/ico/uyu.gif",
+    "code": "UY"
+  },
+  "YER": {
+    "conutry": "也门",
+    "cname": "也门里亚尔",
+    "flag": "https://fxtop.com/ico/yer.gif",
+    "code": "YE"
+  },
+  "AMD": {
+    "conutry": "亚美尼亚",
+    "cname": "亚美尼亚达姆",
+    "flag": "https://fxtop.com/ico/amd.gif",
+    "code": "AM"
+  },
+  "ILS": {
+    "conutry": "巴勒斯坦",
+    "cname": "以色列锡克尔",
+    "flag": "https://fxtop.com/ico/ps.gif",
+    "code": "PS"
+  },
+  "IQD": {
+    "conutry": "伊拉克",
+    "cname": "伊拉克第纳尔",
+    "flag": "https://fxtop.com/ico/iqd.gif",
+    "code": "IQ"
+  },
+  "IRR": {
+    "conutry": "伊朗",
+    "cname": "伊朗里亚尔",
+    "flag": "https://fxtop.com/ico/irr.gif",
+    "code": "IR"
+  },
+  "CVE": {
+    "conutry": "佛得角",
+    "cname": "佛得角埃斯库多",
+    "flag": "https://fxtop.com/ico/cve.gif",
+    "code": "CV"
+  },
+  "RUB": {
+    "conutry": "前苏联",
+    "cname": "俄罗斯卢布",
+    "flag": "https://fxtop.com/ico/rub.gif",
+    "code": "RU"
+  },
+  "BGN": {
+    "conutry": "保加利亚",
+    "cname": "新保加利亚列弗",
+    "flag": "https://fxtop.com/ico/bgn.gif",
+    "code": "BG"
+  },
+  "EUR": {
+    "conutry": "黑山",
+    "cname": "欧元",
+    "flag": "https://fxtop.com/ico/me.gif",
+    "code": "ME"
+  },
+  "GMD": {
+    "conutry": "冈比亚",
+    "cname": "冈比亚达拉西",
+    "flag": "https://fxtop.com/ico/gmd.gif",
+    "code": "GM"
+  },
+  "ISK": {
+    "conutry": "冰岛",
+    "cname": "冰岛克朗",
+    "flag": "https://fxtop.com/ico/isk.gif",
+    "code": "IS"
+  },
+  "XOF": {
+    "conutry": "马里",
+    "cname": "西非法郎 (BCEAO)",
+    "flag": "https://fxtop.com/ico/ml.gif",
+    "code": "ML"
+  },
+  "GNF": {
+    "conutry": "几内亚（科纳克里）",
+    "cname": "几内亚法郎",
+    "flag": "https://fxtop.com/ico/gnf.gif",
+    "code": "GN"
+  },
+  "CHF": {
+    "conutry": "瑞士",
+    "cname": "瑞士法郎",
+    "flag": "https://fxtop.com/ico/chf.gif",
+    "code": "CH"
+  },
+  "CDF": {
+    "conutry": "刚果民主共和国 (金沙萨-扎伊尔)",
+    "cname": "刚果法郎",
+    "flag": "https://fxtop.com/ico/cd.gif",
+    "code": "CD"
+  },
+  "LYD": {
+    "conutry": "利比亚",
+    "cname": "利比亚第纳尔",
+    "flag": "https://fxtop.com/ico/lyd.gif",
+    "code": "LY"
+  },
+  "LRD": {
+    "conutry": "利比里亚",
+    "cname": "利比里亚元",
+    "flag": "https://fxtop.com/ico/lrd.gif",
+    "code": "LR"
+  },
+  "YUN": {
+    "conutry": "前南斯拉夫",
+    "cname": "南斯拉夫第纳尔",
+    "flag": "https://fxtop.com/ico/yun.gif",
+    "code": "YU"
+  },
+  "CAD": {
+    "conutry": "加拿大",
+    "cname": "加元",
+    "flag": "https://fxtop.com/ico/cad.gif",
+    "code": "CA"
+  },
+  "GHS": {
+    "conutry": "加纳",
+    "cname": "迦纳塞地",
+    "flag": "https://fxtop.com/ico/ghs.gif",
+    "code": "GH"
+  },
+  "HUF": {
+    "conutry": "匈牙利",
+    "cname": "匈牙利福林",
+    "flag": "https://fxtop.com/ico/huf.gif",
+    "code": "HU"
+  },
+  "KPW": {
+    "conutry": "北朝鲜",
+    "cname": "北朝鲜元",
+    "flag": "https://fxtop.com/ico/kpw.gif",
+    "code": "KP"
+  },
+  "TTD": {
+    "conutry": "特立尼达和多巴哥",
+    "cname": "特立尼达和多巴哥元",
+    "flag": "https://fxtop.com/ico/ttd.gif",
+    "code": "TT"
+  },
+  "KRW": {
+    "conutry": "南朝鲜",
+    "cname": "南韩元",
+    "flag": "https://fxtop.com/ico/krw.gif",
+    "code": "KR"
+  },
+  "SSP": {
+    "conutry": "南苏丹",
+    "cname": "南苏丹磅",
+    "flag": "https://fxtop.com/ico/ssp.gif",
+    "code": "SS"
+  },
+  "ZAR": {
+    "conutry": "南非",
+    "cname": "南非兰特",
+    "flag": "https://fxtop.com/ico/zar.gif",
+    "code": "ZA"
+  },
+  "QAR": {
+    "conutry": "卡塔尔",
+    "cname": "Qatari Riyal",
+    "flag": "https://fxtop.com/ico/qar.gif",
+    "code": "QA"
+  },
+  "RWF": {
+    "conutry": "卢旺达",
+    "cname": "卢旺达法郎",
+    "flag": "https://fxtop.com/ico/rwf.gif",
+    "code": "RW"
+  },
+  "INR": {
+    "conutry": "印度",
+    "cname": "印度卢比",
+    "flag": "https://fxtop.com/ico/inr.gif",
+    "code": "IN"
+  },
+  "IDR": {
+    "conutry": "印度尼西亚",
+    "cname": "印尼盾",
+    "flag": "https://fxtop.com/ico/idr.gif",
+    "code": "ID"
+  },
+  "GTQ": {
+    "conutry": "危地马拉",
+    "cname": "危地马拉格查尔",
+    "flag": "https://fxtop.com/ico/gtq.gif",
+    "code": "GT"
+  },
+  "ERN": {
+    "conutry": "厄立特里亚",
+    "cname": "厄立特里亚纳克法",
+    "flag": "https://fxtop.com/ico/ern.gif",
+    "code": "ER"
+  },
+  "SYP": {
+    "conutry": "叙利亚",
+    "cname": "叙利亚磅",
+    "flag": "https://fxtop.com/ico/syp.gif",
+    "code": "SY"
+  },
+  "CUC": {
+    "conutry": "古巴",
+    "cname": "古巴可兑换比索",
+    "flag": "https://fxtop.com/ico/cup.gif",
+    "code": "CU"
+  },
+  "TWD": {
+    "conutry": "台湾",
+    "cname": "新台币",
+    "flag": "https://fxtop.com/ico/twd.gif",
+    "code": "TW"
+  },
+  "KGS": {
+    "conutry": "吉尔吉斯斯坦",
+    "cname": "吉尔吉斯索姆",
+    "flag": "https://fxtop.com/ico/kgs.gif",
+    "code": "KG"
+  },
+  "DJF": {
+    "conutry": "吉布提",
+    "cname": "吉布提法郎",
+    "flag": "https://fxtop.com/ico/djf.gif",
+    "code": "DJ"
+  },
+  "KZT": {
+    "conutry": "哈萨克斯坦",
+    "cname": "哈萨克斯坦坚戈",
+    "flag": "https://fxtop.com/ico/kzt.gif",
+    "code": "KZ"
+  },
+  "COP": {
+    "conutry": "哥伦比亚",
+    "cname": "哥伦比亚比索",
+    "flag": "https://fxtop.com/ico/cop.gif",
+    "code": "CO"
+  },
+  "CRC": {
+    "conutry": "哥斯达黎加",
+    "cname": "哥斯达黎加科朗",
+    "flag": "https://fxtop.com/ico/crc.gif",
+    "code": "CR"
+  },
+  "AUD": {
+    "conutry": "赫德岛和麦克唐纳群岛",
+    "cname": "澳大利亚元",
+    "flag": "https://fxtop.com/ico/hmd.gif",
+    "code": "HM"
+  },
+  "TMT": {
+    "conutry": "土库曼斯坦",
+    "cname": "新土库曼斯坦马纳特",
+    "flag": "https://fxtop.com/ico/tmt.gif",
+    "code": "TM"
+  },
+  "TRY": {
+    "conutry": "土耳其",
+    "cname": "土耳其里尔",
+    "flag": "https://fxtop.com/ico/try.gif",
+    "code": "TR"
+  },
+  "XCD": {
+    "conutry": "蒙塞拉特",
+    "cname": "东加勒比元",
+    "flag": "https://fxtop.com/ico/msr.gif",
+    "code": "MS"
+  },
+  "STN": {
+    "conutry": "圣多美和普林西比",
+    "cname": "多布腊",
+    "flag": "https://fxtop.com/ico/stn.gif",
+    "code": "ST"
+  },
+  "SHP": {
+    "conutry": "圣海伦娜",
+    "cname": "利佛尔",
+    "flag": "https://fxtop.com/ico/shp.gif",
+    "code": "SH"
+  },
+  "GYD": {
+    "conutry": "圭亚那",
+    "cname": "圭亚那元",
+    "flag": "https://fxtop.com/ico/gyd.gif",
+    "code": "GY"
+  },
+  "TZS": {
+    "conutry": "坦桑尼亚",
+    "cname": "坦桑尼亚先令",
+    "flag": "https://fxtop.com/ico/tzs.gif",
+    "code": "TZ"
+  },
+  "EGP": {
+    "conutry": "埃及",
+    "cname": "埃及利佛尔",
+    "flag": "https://fxtop.com/ico/egp.gif",
+    "code": "EG"
+  },
+  "ETB": {
+    "conutry": "埃塞俄比亚",
+    "cname": "埃塞俄比亚比尔",
+    "flag": "https://fxtop.com/ico/etb.gif",
+    "code": "ET"
+  },
+  "TJS": {
+    "conutry": "塔吉克斯坦",
+    "cname": "塔吉克索莫尼",
+    "flag": "https://fxtop.com/ico/tj.gif",
+    "code": "TJ"
+  },
+  "RSD": {
+    "conutry": "塞尔维亚",
+    "cname": "塞尔维亚第纳尔",
+    "flag": "https://fxtop.com/ico/rs.gif",
+    "code": "RS"
+  },
+  "SCR": {
+    "conutry": "塞舌尔",
+    "cname": "塞舌尔卢比",
+    "flag": "https://fxtop.com/ico/scr.gif",
+    "code": "SC"
+  },
+  "MXN": {
+    "conutry": "墨西哥",
+    "cname": "墨西哥比索",
+    "flag": "https://fxtop.com/ico/mxn.gif",
+    "code": "MX"
+  },
+  "DOP": {
+    "conutry": "多米尼加共和国",
+    "cname": "多米尼加比索",
+    "flag": "https://fxtop.com/ico/dop.gif",
+    "code": "DO"
+  },
+  "GBP": {
+    "conutry": "英属印度洋领土",
+    "cname": "英镑",
+    "flag": "https://fxtop.com/ico/iot.gif",
+    "code": "IO"
+  },
+  "VES": {
+    "conutry": "委内瑞拉",
+    "cname": "委内瑞拉强势玻利瓦尔",
+    "flag": "https://fxtop.com/ico/ved.gif",
+    "code": "VE"
+  },
+  "BDT": {
+    "conutry": "孟加拉共和国",
+    "cname": "孟加拉塔卡",
+    "flag": "https://fxtop.com/ico/bdt.gif",
+    "code": "BD"
+  },
+  "AOA": {
+    "conutry": "安哥拉",
+    "cname": "安哥拉宽扎",
+    "flag": "https://fxtop.com/ico/aon.gif",
+    "code": "AO"
+  },
+  "NIO": {
+    "conutry": "尼加拉瓜",
+    "cname": "尼加拉瓜科多巴",
+    "flag": "https://fxtop.com/ico/nio.gif",
+    "code": "NI"
+  },
+  "NGN": {
+    "conutry": "尼日利亚",
+    "cname": "尼日利亚奈拉",
+    "flag": "https://fxtop.com/ico/ngn.gif",
+    "code": "NG"
+  },
+  "NPR": {
+    "conutry": "尼泊尔",
+    "cname": "尼泊尔卢比",
+    "flag": "https://fxtop.com/ico/npr.gif",
+    "code": "NP"
+  },
+  "BSD": {
+    "conutry": "巴哈马",
+    "cname": "巴哈马元",
+    "flag": "https://fxtop.com/ico/bsd.gif",
+    "code": "BS"
+  },
+  "PKR": {
+    "conutry": "巴基斯坦",
+    "cname": "巴基斯坦卢比",
+    "flag": "https://fxtop.com/ico/pkr.gif",
+    "code": "PK"
+  },
+  "BBD": {
+    "conutry": "巴巴多斯",
+    "cname": "巴贝多元",
+    "flag": "https://fxtop.com/ico/bbd.gif",
+    "code": "BB"
+  },
+  "PGK": {
+    "conutry": "巴布新几内亚",
+    "cname": "基纳",
+    "flag": "https://fxtop.com/ico/pgk.gif",
+    "code": "PG"
+  },
+  "PYG": {
+    "conutry": "巴拉圭",
+    "cname": "瓜拉尼",
+    "flag": "https://fxtop.com/ico/pyg.gif",
+    "code": "PY"
+  },
+  "PAB": {
+    "conutry": "巴拿马",
+    "cname": "巴拿马巴波亚",
+    "flag": "https://fxtop.com/ico/pab.gif",
+    "code": "PA"
+  },
+  "BHD": {
+    "conutry": "巴林",
+    "cname": "巴林第纳尔",
+    "flag": "https://fxtop.com/ico/bhd.gif",
+    "code": "BH"
+  },
+  "BRL": {
+    "conutry": "巴西",
+    "cname": "巴西雷亚尔",
+    "flag": "https://fxtop.com/ico/brl.gif",
+    "code": "BR"
+  },
+  "BIF": {
+    "conutry": "布隆迪",
+    "cname": "布隆迪法郎",
+    "flag": "https://fxtop.com/ico/bif.gif",
+    "code": "BI"
+  },
+  "KYD": {
+    "conutry": "开曼群岛",
+    "cname": "开曼群岛元",
+    "flag": "https://fxtop.com/ico/kyd.gif",
+    "code": "KY"
+  },
+  "SBD": {
+    "conutry": "所罗门群岛",
+    "cname": "所罗门群岛元",
+    "flag": "https://fxtop.com/ico/sbd.gif",
+    "code": "SB"
+  },
+  "NZD": {
+    "conutry": "紐埃",
+    "cname": "新西兰元",
+    "flag": "https://fxtop.com/ico/niu.gif",
+    "code": "NU"
+  },
+  "NOK": {
+    "conutry": "斯瓦尔巴群岛",
+    "cname": "挪威克朗",
+    "flag": "https://fxtop.com/ico/sj.gif",
+    "code": "SJ"
+  },
+  "CZK": {
+    "conutry": "捷克",
+    "cname": "捷克克朗",
+    "flag": "https://fxtop.com/ico/czk.gif",
+    "code": "CZ"
+  },
+  "MDL": {
+    "conutry": "摩尔达维亚",
+    "cname": "摩尔多瓦列伊",
+    "flag": "https://fxtop.com/ico/mdl.gif",
+    "code": "MD"
+  },
+  "MAD": {
+    "conutry": "西撒哈拉",
+    "cname": "摩洛哥迪拉姆",
+    "flag": "https://fxtop.com/ico/eh.gif",
+    "code": "EH"
+  },
+  "FJD": {
+    "conutry": "斐济",
+    "cname": "斐济元",
+    "flag": "https://fxtop.com/ico/fjd.gif",
+    "code": "FJ"
+  },
+  "SZL": {
+    "conutry": "斯威士兰",
+    "cname": "里兰吉尼",
+    "flag": "https://fxtop.com/ico/szl.gif",
+    "code": "SZ"
+  },
+  "LKR": {
+    "conutry": "斯里兰卡",
+    "cname": "斯里兰卡卢比",
+    "flag": "https://fxtop.com/ico/lkr.gif",
+    "code": "LK"
+  },
+  "SGD": {
+    "conutry": "新加坡",
+    "cname": "新加坡元",
+    "flag": "https://fxtop.com/ico/sgd.gif",
+    "code": "SG"
+  },
+  "XPF": {
+    "conutry": "瓦利斯和富圖納群島",
+    "cname": "太平洋法郎 (CFP)",
+    "flag": "https://fxtop.com/ico/wf.gif",
+    "code": "WF"
+  },
+  "JEP": {
+    "conutry": "新泽西",
+    "cname": "利佛尔",
+    "flag": "https://fxtop.com/ico/je.gif",
+    "code": "JE"
+  },
+  "JPY": {
+    "conutry": "日本",
+    "cname": "日元",
+    "flag": "https://fxtop.com/ico/jpy.gif",
+    "code": "JP"
+  },
+  "CLP": {
+    "conutry": "智利",
+    "cname": "智利比索",
+    "flag": "https://fxtop.com/ico/clp.gif",
+    "code": "CL"
+  },
+  "KHR": {
+    "conutry": "柬埔寨",
+    "cname": "柬埔寨瑞尔",
+    "flag": "https://fxtop.com/ico/khr.gif",
+    "code": "KH"
+  },
+  "GGP": {
+    "conutry": "根西岛",
+    "cname": "利佛尔",
+    "flag": "https://fxtop.com/ico/gg.gif",
+    "code": "GG"
+  },
+  "MRU": {
+    "conutry": "毛里塔尼亚",
+    "cname": "毛里塔尼亚乌吉亚",
+    "flag": "https://fxtop.com/ico/mru.gif",
+    "code": "MR"
+  },
+  "MUR": {
+    "conutry": "毛里求斯岛",
+    "cname": "毛里塔尼亚卢比",
+    "flag": "https://fxtop.com/ico/mur.gif",
+    "code": "MU"
+  },
+  "TOP": {
+    "conutry": "汤加",
+    "cname": "汤加潘加",
+    "flag": "https://fxtop.com/ico/top.gif",
+    "code": "TO"
+  },
+  "BND": {
+    "conutry": "文莱",
+    "cname": "文莱元",
+    "flag": "https://fxtop.com/ico/brn.gif",
+    "code": "BN"
+  },
+  "SAR": {
+    "conutry": "沙特阿拉伯",
+    "cname": "沙特里亚尔",
+    "flag": "https://fxtop.com/ico/sar.gif",
+    "code": "SA"
+  },
+  "PLN": {
+    "conutry": "波兰",
+    "cname": "波兰兹罗提",
+    "flag": "https://fxtop.com/ico/pln.gif",
+    "code": "PL"
+  },
+  "BWP": {
+    "conutry": "波扎那",
+    "cname": "波扎那普拉",
+    "flag": "https://fxtop.com/ico/bwp.gif",
+    "code": "BW"
+  },
+  "BAM": {
+    "conutry": "波斯尼亚",
+    "cname": "可兑换的马克",
+    "flag": "https://fxtop.com/ico/ba.gif",
+    "code": "BA"
+  },
+  "THB": {
+    "conutry": "泰国",
+    "cname": "泰铢",
+    "flag": "https://fxtop.com/ico/thb.gif",
+    "code": "TH"
+  },
+  "ZWL": {
+    "conutry": "津巴布韦",
+    "cname": "津巴布韦元",
+    "flag": "https://fxtop.com/ico/zwd.gif",
+    "code": "ZW"
+  },
+  "HNL": {
+    "conutry": "洪都拉斯",
+    "cname": "洪都拉斯伦皮拉",
+    "flag": "https://fxtop.com/ico/hnl.gif",
+    "code": "HN"
+  },
+  "HTG": {
+    "conutry": "海地",
+    "cname": "海地古德",
+    "flag": "https://fxtop.com/ico/htg.gif",
+    "code": "HT"
+  },
+  "MOP": {
+    "conutry": "澳门",
+    "cname": "澳门币",
+    "flag": "https://fxtop.com/ico/mop.gif",
+    "code": "MO"
+  },
+  "JMD": {
+    "conutry": "牙买加",
+    "cname": "牙买加元",
+    "flag": "https://fxtop.com/ico/jmd.gif",
+    "code": "JM"
+  },
+  "SLE": {
+    "conutry": "狮子山",
+    "cname": "新利昂",
+    "flag": "https://fxtop.com/ico/sle.gif",
+    "code": "SL"
+  },
+  "BOB": {
+    "conutry": "玻利维亚",
+    "cname": "玻利维亚诺",
+    "flag": "https://fxtop.com/ico/bob.gif",
+    "code": "BO"
+  },
+  "SEK": {
+    "conutry": "瑞典",
+    "cname": "瑞典科朗",
+    "flag": "https://fxtop.com/ico/sek.gif",
+    "code": "SE"
+  },
+  "VUV": {
+    "conutry": "瓦努阿图",
+    "cname": "瓦图",
+    "flag": "https://fxtop.com/ico/vuv.gif",
+    "code": "VU"
+  },
+  "BYN": {
+    "conutry": "白俄羅斯",
+    "cname": "白俄罗斯卢布",
+    "flag": "https://fxtop.com/ico/by.gif",
+    "code": "BY"
+  },
+  "BMD": {
+    "conutry": "百慕大",
+    "cname": "百慕大元",
+    "flag": "https://fxtop.com/ico/bmd.gif",
+    "code": "BM"
+  },
+  "GIP": {
+    "conutry": "直布罗陀",
+    "cname": "利佛尔",
+    "flag": "https://fxtop.com/ico/gip.gif",
+    "code": "GI"
+  },
+  "KWD": {
+    "conutry": "科威特",
+    "cname": "科威特第纳尔",
+    "flag": "https://fxtop.com/ico/kwd.gif",
+    "code": "KW"
+  },
+  "KMF": {
+    "conutry": "科摩罗",
+    "cname": "科摩罗法郎",
+    "flag": "https://fxtop.com/ico/kmf.gif",
+    "code": "KM"
+  },
+  "PEN": {
+    "conutry": "秘鲁",
+    "cname": "秘鲁索尔",
+    "flag": "https://fxtop.com/ico/pen.gif",
+    "code": "PE"
+  },
+  "TND": {
+    "conutry": "突尼斯",
+    "cname": "突尼斯第纳尔",
+    "flag": "https://fxtop.com/ico/tnd.gif",
+    "code": "TN"
+  },
+  "LTL": {
+    "conutry": "立陶宛",
+    "cname": "立陶宛立特",
+    "flag": "https://fxtop.com/ico/ltl.gif",
+    "code": "LT"
+  },
+  "SOS": {
+    "conutry": "索马里",
+    "cname": "索马里先令",
+    "flag": "https://fxtop.com/ico/sos.gif",
+    "code": "SO"
+  },
+  "JOD": {
+    "conutry": "约旦",
+    "cname": "约旦第纳尔",
+    "flag": "https://fxtop.com/ico/jod.gif",
+    "code": "JO"
+  },
+  "NAD": {
+    "conutry": "纳米比亚",
+    "cname": "纳米比亚元",
+    "flag": "https://fxtop.com/ico/nad.gif",
+    "code": "NA"
+  },
+  "MMK": {
+    "conutry": "缅甸",
+    "cname": "缅元",
+    "flag": "https://fxtop.com/ico/mmk.gif",
+    "code": "MM"
+  },
+  "RON": {
+    "conutry": "罗马尼亚",
+    "cname": "罗马尼亚新列伊",
+    "flag": "https://fxtop.com/ico/ron.gif",
+    "code": "RO"
+  },
+  "GEL": {
+    "conutry": "美国乔治亚洲",
+    "cname": "格鲁吉亚拉里",
+    "flag": "https://fxtop.com/ico/gel.gif",
+    "code": "GE"
+  },
+  "LAK": {
+    "conutry": "老挝",
+    "cname": "老挝基普",
+    "flag": "https://fxtop.com/ico/lak.gif",
+    "code": "LA"
+  },
+  "KES": {
+    "conutry": "肯尼亚",
+    "cname": "肯尼亚先令",
+    "flag": "https://fxtop.com/ico/kes.gif",
+    "code": "KE"
+  },
+  "SDG": {
+    "conutry": "苏丹",
+    "cname": "苏丹镑",
+    "flag": "https://fxtop.com/ico/sdg.gif",
+    "code": "SD"
+  },
+  "SRD": {
+    "conutry": "苏里南",
+    "cname": "苏里南元",
+    "flag": "https://fxtop.com/ico/srd.gif",
+    "code": "SR"
+  },
+  "ANG": {
+    "conutry": "荷屬聖馬丁",
+    "cname": "安的列斯盾",
+    "flag": "https://fxtop.com/ico/sx.gif",
+    "code": "SX"
+  },
+  "MZN": {
+    "conutry": "莫桑比克",
+    "cname": "莫桑比克美提卡",
+    "flag": "https://fxtop.com/ico/mzn.gif",
+    "code": "MZ"
+  },
+  "LSL": {
+    "conutry": "莱索托",
+    "cname": "莱索托洛蒂",
+    "flag": "https://fxtop.com/ico/lsl.gif",
+    "code": "LS"
+  },
+  "PHP": {
+    "conutry": "菲律宾",
+    "cname": "菲律宾比索",
+    "flag": "https://fxtop.com/ico/php.gif",
+    "code": "PH"
+  },
+  "MNT": {
+    "conutry": "蒙古",
+    "cname": "蒙古图格里克",
+    "flag": "https://fxtop.com/ico/mnt.gif",
+    "code": "MN"
+  },
+  "WST": {
+    "conutry": "西萨摩亚",
+    "cname": "塔拉",
+    "flag": "https://fxtop.com/ico/wst.gif",
+    "code": "WS"
+  },
+  "BZD": {
+    "conutry": "伯利兹",
+    "cname": "伯利兹元",
+    "flag": "https://fxtop.com/ico/bzd.gif",
+    "code": "BZ"
+  },
+  "ZMW": {
+    "conutry": "赞比亚",
+    "cname": "赞比亚宽扎",
+    "flag": "https://fxtop.com/ico/zmk.gif",
+    "code": "ZM"
+  },
+  "VND": {
+    "conutry": "越南",
+    "cname": "越南盾",
+    "flag": "https://fxtop.com/ico/vnd.gif",
+    "code": "VN"
+  },
+  "AZN": {
+    "conutry": "阿塞拜疆",
+    "cname": "新阿塞拜疆马纳特",
+    "flag": "https://fxtop.com/ico/azn.gif",
+    "code": "AZ"
+  },
+  "AFN": {
+    "conutry": "阿富汗",
+    "cname": "新阿富汗货币",
+    "flag": "https://fxtop.com/ico/afa.gif",
+    "code": "AF"
+  },
+  "DZD": {
+    "conutry": "阿尔及利亚",
+    "cname": "阿尔及利亚第纳尔",
+    "flag": "https://fxtop.com/ico/dzd.gif",
+    "code": "DZ"
+  },
+  "ALL": {
+    "conutry": "阿尔巴尼亚",
+    "cname": "阿尔巴尼亚莱克",
+    "flag": "https://fxtop.com/ico/all.gif",
+    "code": "AL"
+  },
+  "OMR": {
+    "conutry": "阿曼",
+    "cname": "阿曼里亚尔",
+    "flag": "https://fxtop.com/ico/omr.gif",
+    "code": "OM"
+  },
+  "ARS": {
+    "conutry": "阿根廷",
+    "cname": "阿根廷比索",
+    "flag": "https://fxtop.com/ico/ars.gif",
+    "code": "AR"
+  },
+  "AED": {
+    "conutry": "阿联酋",
+    "cname": "酋长国迪拉姆",
+    "flag": "https://fxtop.com/ico/aed.gif",
+    "code": "AE"
+  },
+  "AWG": {
+    "conutry": "阿鲁巴",
+    "cname": "阿鲁巴盾",
+    "flag": "https://fxtop.com/ico/awg.gif",
+    "code": "AW"
+  },
+  "HKD": {
+    "conutry": "香港",
+    "cname": "港元",
+    "flag": "https://fxtop.com/ico/hkd.gif",
+    "code": "HK"
+  },
+  "MKD": {
+    "conutry": "马其顿共和国",
+    "cname": "马其顿第纳尔",
+    "flag": "https://fxtop.com/ico/mkd.gif",
+    "code": "MK"
+  },
+  "MVR": {
+    "conutry": "马尔地夫",
+    "cname": "马尔代夫卢比",
+    "flag": "https://fxtop.com/ico/mvr.gif",
+    "code": "MV"
+  },
+  "IMP": {
+    "conutry": "马恩岛",
+    "cname": "马恩磅",
+    "flag": "https://fxtop.com/ico/im.gif",
+    "code": "IM"
+  },
+  "MWK": {
+    "conutry": "马拉维",
+    "cname": "马拉维克瓦查",
+    "flag": "https://fxtop.com/ico/mwk.gif",
+    "code": "MW"
+  },
+  "MYR": {
+    "conutry": "马来西亚",
+    "cname": "马来西亚林吉特",
+    "flag": "https://fxtop.com/ico/myr.gif",
+    "code": "MY"
+  },
+  "MGA": {
+    "conutry": "马达加斯加",
+    "cname": "马达加斯加阿里亚里",
+    "flag": "https://fxtop.com/ico/mga.gif",
+    "code": "MG"
+  },
+  "LBP": {
+    "conutry": "黎巴嫩",
+    "cname": "黎巴嫩镑",
+    "flag": "https://fxtop.com/ico/lbp.gif",
+    "code": "LB"
+  },
+  "BTC": {
+    "conutry": "无国家",
+    "cname": "比特币",
+    "flag": "null",
+    "code": "null"
+  },
+  "CNH": {
+    "conutry": "中国",
+    "cname": "离岸人民币",
+    "flag": "https://fxtop.com/ico/cny.gif",
+    "code": "CN"
+  },
+  "CLF": {
+    "conutry": "智利",
+    "cname": "智利记账单位(UF)",
+    "flag": "https://fxtop.com/ico/clp.gif",
+    "code": "CL",
+    "descrip": "一种计量单位。根据智利央行公布的物价指数和货币汇率计算出来的一种虚拟货币。智利的一些金融和房地产交易使用UF来计算价格和利率，因为它可以抵消通货膨胀的影响。UF的价值每日更新，与智利比索有一定的关系。"
+  },
+  "CUP": {
+    "conutry": "古巴",
+    "cname": "古巴比索",
+    "flag": "https://fxtop.com/ico/cup.gif",
+    "code": "CU"
+  },
+  "FKP": {
+    "conutry": "福克兰群岛",
+    "cname": "福克兰群岛镑",
+    "flag": "null",
+    "code": "FK"
+  },
+  "HRK": {
+    "conutry": "克罗地亚",
+    "cname": "克罗地亚库纳",
+    "flag": "null",
+    "code": "HR"
+  },
+  "SLL": {
+    "conutry": "塞拉利昂",
+    "cname": "塞拉利昂利昂",
+    "flag": "null",
+    "code": "SL"
+  },
+  "STD": {
+    "conutry": "圣多美和普林西比",
+    "cname": "圣多美和普林西比",
+    "flag": "null",
+    "code": "ST"
+  },
+  "SVC": {
+    "conutry": "萨尔瓦多",
+    "cname": "萨尔瓦多科朗",
+    "flag": "null",
+    "code": "SV"
+  },
+  "XAG": {
+    "conutry": "无国家",
+    "cname": "白银",
+    "flag": "null",
+    "code": "null"
+  },
+  "XAU": {
+    "conutry": "无国家",
+    "cname": "黄金",
+    "flag": "null",
+    "code": "null"
+  },
+  "XDR": {
+    "conutry": "国际货币基金组织",
+    "cname": "特别提款权",
+    "flag": "null",
+    "code": "IMF"
+  },
+  "XPD": {
+    "conutry": "无国家",
+    "cname": "钯",
+    "flag": "null",
+    "code": "null"
+  },
+  "XPT": {
+    "conutry": "无国家",
+    "cname": "铂",
+    "flag": "null",
+    "code": "null"
+  }
+}
