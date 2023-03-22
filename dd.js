@@ -3,7 +3,7 @@ ddButton.addEventListener('click', function(e){
 	downloadTable(e.target.lastChild.textContent);
 });
 const json = document.getElementById('jsonddButton');
-js.addEventListener('click', function(e){
+json.addEventListener('click', function(e){
 	var format = e.target.textContent;
 	e.target.parent.lastChild.textContent = format;
 	downloadTable(format);
