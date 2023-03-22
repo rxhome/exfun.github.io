@@ -14,7 +14,7 @@ function fetchEx(){
 		}
 	}
 	// 调用 `fetch()`，传入 URL。
-	fetch('./json/exchange_rates.json')
+	fetch('exchange_rates.json')
 	  // fetch() 返回一个 promise。当我们从服务器收到响应时，
 	  // 会使用该响应调用 promise 的 `then()` 处理器。
 	  .then((response) => {
@@ -70,11 +70,11 @@ async function displayEx(data){
 	headInfo.innerHTML = headInfoStr;
 	
 	//create tables to display rates
-	const supportedC = await fetchJson('./json/supported_currencies.json');
+	const supportedC = await fetchJson('supported_currencies.json');
 	
-	const cName = await fetchJson('./json/sym_cname.json');
+	const cName = await fetchJson('sym_cname.json');
 	
-	const country = await fetchJson('./json/code_country.json');
+	const country = await fetchJson('code_country.json');
 	
 	const rates = data.rates;//obj
 	
