@@ -1,6 +1,3 @@
-ddListener('ddButton');
-ddListener('json');
-ddListener('csv');
 const ddButton = document.getElementById('ddButton');
 ddButton.addEventListener('click', function(e){
 	downloadTable(e.target.lastChild.textContent);
