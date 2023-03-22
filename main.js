@@ -1,7 +1,7 @@
 function fetchEx(){
 	const apiUrl = 'https://openexchangerates.org/api/';
 	var queryPara = 'latest.json';
-	const appId = '6e8597dfb06a4c12840d93054ae13fba';
+	const appId = 'your_id';
 
 	//var url = apiUrl + queryPara;
 	var url = apiUrl + queryPara + '?app_id=' + appId;
