@@ -1,0 +1,111 @@
+.controlHead {
+	position: fixed;
+	z-index: 2;
+	border-style: solid;
+	border-top: white;
+	border-left: none;
+	border-right: none;
+	padding: 0 0 15px 0;
+	width: 98vw;
+	background-color: white;
+}
+.headBackground{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 98vw;
+	height: 66px;
+	background-color: white;
+	z-index: 1;	
+}
+
+#tableCreate {
+}
+
+#exInfo {
+	display: inline-block;
+}
+
+#exInfo a, #exInfo div {
+	display: inline-block;
+	padding: 1px 5px 0 5px;
+	margin: 5px 10px 1px 1vw;
+	border-style: solid;
+	border-color: #808080;
+	border-top: none;
+	border-bottom: none;
+}
+
+#exInfo a:hover {
+	cursor: pointer;
+	font-size: 110%;
+	color: white;
+	background-color: #191970;
+}
+
+.controlHead input[type="button"] {
+	display: inline-block;
+	margin: 5px 10px 1px 1vw;
+}
+
+.controlHead input[type="button"]:hover {
+	color: white;
+	background-color: black;
+}
+
+#navigation{
+	position: fixed;
+	bottom: 5vh;
+	left: 90vw;
+	z-index: 1;
+	display: none;
+}
+#navigation .floatBall{
+	width: 4vw;
+	height: 4vw;
+	border-style: solid;
+	border-radius: 4vw;
+}
+.floatBall .semiCircle{
+	width: 4vw;
+	height: 2vw;
+	border-style: solid;
+	border-radius: 4vw 4vw 0 0;
+}
+.floatBall .up{
+	border-radius: 4vw 4vw 0 0;
+}
+.floatBall .down{
+	border-radius: 0 0 4vw 4vw;
+}
+
+#ddButton{
+	position: absolute;
+	top: 15px;
+	right: 3vw;
+	z-index: 2;
+	
+	width: 70px;
+	height: 32px;
+	border-radius: 10px;
+}
+#ddButton img{
+	width: 24px;
+	height: 24px;
+}
+#ddButton #dropDown{
+	position:absolute;
+	display: none;
+}
+#ddButton:hover #dropDown{
+	
+	display: block;
+}
+#ddButton #dropDown div {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+}
+#ddButton #dropDown div:hover {
+	background-color: #ddd;
+}
