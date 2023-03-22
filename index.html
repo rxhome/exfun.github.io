@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Exchange</title>
+
+<link rel="stylesheet" href="./css/basic.css">
+<link rel="stylesheet" href="./css/table.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@6.6.6/css/flag-icons.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" async/>
+<!--
+- crossorigin="anonymous"：表示不允许跨域请求发送身份凭证（如cookie、HTTP认证或客户端SSL证书）。
+- referrerpolicy="no-referrer"：表示不在请求头中发送来源信息（referrer），以保护用户隐私。
+-->
+
+<link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/32/1138/1138523.png">
+<link rel="apple-touch-icon" sizes="128x128" href="https://cdn-icons-png.flaticon.com/128/1138/1138523.png">
+
+</head>
+
+<body>
+
+<!--遮盖controlHead 和table thead之间的空隙-->
+<div class="headBackground"></div>
+
+<div class="controlHead">
+<input type="button" onclick="fetchEx()" value="fetch" id="fetchRates">
+<div id="exInfo"></div>
+</div>
+
+<div id="navigation">
+	<button class="floatBall"><a href="#top"><img loading="lazy" decoding="async" type="image/png" alt="TOP" title="back to top" src="https://cdn0.iconfinder.com/data/icons/evericons-16px/16/circle-arrow-top-64.png" /></a></button>
+
+<div class="floatBall">
+<button id="scrollUp" class="semiCircle up">Up</buutton>
+<button id="scrollDown" class="semiCircle down">Down</buutton>
+</div></div>
+
+<div id="tableCreate"></div>
+
+<button id="ddButton"><img loading="lazy" decoding="async" type="image/png" alt="TOP" title="back to top" src="https://cdn-icons-png.flaticon.com/32/2926/2926214.png" /><div id="dropDown"><div id="csv">csv</div><div id="json">json</div></div><span>csv</span></button>
+
+<div id="ddBlock" style="display: none;"></div>
+</body>
+
+<script src="./js/main.js" async></script>
+<script src="./js/page_switch.js" async></script>
+<script src="./js/dd.js" async></script>
+
+</html>
